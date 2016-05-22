@@ -6,7 +6,14 @@ using namespace std;
 int counter_limit (const double &, const double &); // прототип функции дл€ подсчЄта необлагаемых минимумов
 double tax(const double &, const double &, const int, const double); // прототип функции дл€ начислени€ подоходного налога
 int main(int argc, char* argv[])
-{
+// nanana lalala
+// nanana lalala// nanana lalala
+// nanana lalala// nanana lalala// nanana lalala
+// nanana lalala// nanana lalala
+// nanana lalala
+// nanana lalala// nanana lalala
+// nanana lalala
+{	
     cout << "Enter the monthly salary: "; // введите размер мес€чной заработной платы
     double month_salary; // месечна€ заработна€ плата
     cin >> month_salary;
